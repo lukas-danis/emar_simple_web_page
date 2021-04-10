@@ -368,6 +368,7 @@
         <div class="sources center">
             <span class="px300 center white" onclick="makeItVisible()">- Sources -</span>
                     <ol id="olSource" class="center white">
+                        <li class="olStyle"><a href="https://wallpaperaccess.com/full/2387027.jpg" target="_blank">Background: https://wallpaperaccess.com/full/2387027.jpg</a></li>
                         <li class="olStyle"><a href="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Netflix_icon.svg/1200px-Netflix_icon.svg.png" target="_blank">Netflix logo: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Netflix_icon.svg/1200px-Netflix_icon.svg.png</a></li>
                         <li class="olStyle"><a href="https://img.csfd.cz/documents/marketing/logos/icon-white-red/icon-white-red.svg" target="_blank">Csfd logo: https://img.csfd.cz/documents/marketing/logos/icon-white-red/icon-white-red.svg</a></li>
                         <li class="olStyle"><a href="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/IMDb_Logo_Square.svg/1200px-IMDb_Logo_Square.svg.png" target="_blank">Imdb logo: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/IMDb_Logo_Square.svg/1200px-IMDb_Logo_Square.svg.png</a></li>
@@ -395,10 +396,10 @@
                         <li class="olStyle"><a href="https://www.personality-database.com/profile_images/11099.png?id=17043" target="_blank">Arturo Román: https://www.personality-database.com/profile_images/11099.png?id=17043</a></li>
                         <li class="olStyle"><a href="https://media-exp1.licdn.com/dms/image/C4E03AQFcsVpUENLY7A/profile-displayphoto-shrink_200_200/0/1516842103898?e=1622678400&v=beta&t=6CUL4PefsHcmJ6SdCxQQqTWq-2rtFpFicGPoyAnsAxI" target="_blank">Marseille: https://media-exp1.licdn.com/dms/image/C4E03AQFcsVpUENLY7A/profile-displayphoto-shrink_200_200/0/1516842103898?e=1622678400&v=beta&t=6CUL4PefsHcmJ6SdCxQQqTWq-2rtFpFicGPoyAnsAxI</a></li>
                         <li class="olStyle"><a href="https://photo1.allfamous.org/public/people/faces/paco-tous-19640210-allfamous.org.jpg" target="_blank">Moscow: https://photo1.allfamous.org/public/people/faces/paco-tous-19640210-allfamous.org.jpg</a></li>
-                        <li class="olStyle"><a href="https://www.youtube.com/watch?v=fvCdLmxnkj0" target="_blank">Video</a></li>
+                        <li class="olStyle"><a href="https://www.youtube.com/watch?v=fvCdLmxnkj0" target="_blank">Video: https://www.youtube.com/watch?v=fvCdLmxnkj0</a></li>
                     </ol>
         </div>
-
+       
         <!-- FOOTER -->
         <footer class="white text-center text-lg-start">
             <div class="text-center p-3">
