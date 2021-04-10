@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+body{
+    background: linear-gradient( rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.85) ), url('images/bgr2.jpg');
+    background-size: cover;
+}
+
+.wd80{
+    width: 80%;
+    margin: auto;
+}
+.pd30{
+    padding-bottom: 30px;
+}
+.pd50{
+    padding-bottom: 50px;
+}
+.px300{
+    width: 300px;
+}
+.center{
+    text-align: center;
+}
+.white{
+    color: white;
+}
+
+
+.title{
+    font-family: 'Permanent Marker', cursive;
+    font-size: 100px;
+}
+.title2{
+    font-family: 'Permanent Marker', cursive;
+    font-size: 50px;
+}
+.text1{
+    font-family: 'Permanent Marker', cursive;
+    font-size: 30px;
+}
+
+
+.table-div{
+    width: 100%;
+}
+.table-style{
+    margin: 0 auto;
+}
+th, td{
+    margin: 0 auto;
+    border: 1px solid white;
+    padding: 0 5px;
+}
+
+
+.myCardStyle{
+    background-color:rgba(255,255,255,0.1);
+}
+
+.list-group-item{
+    background-color:transparent;
+    color: white;
+}
+
+
+.nav-link{
+    color: white;
+}
+.nav-link-style{
+    padding-top: 12px;
+}
+
+#olSource{
+    display: none;
+}
+.olStyle{
+    list-style-position: inside;
+}
