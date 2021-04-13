@@ -313,7 +313,7 @@
 
                     <div class="col-xl-3 col-lg-4 col-md-6 mb-4">
                         <div class="bg-white rounded">
-                            <img src="https://photo1.allfamous.org/public/people/faces/paco-tous-19640210-allfamous.org.jpg" alt="Moscow" class="img-fluid card-img-top">
+                            <img src="https://cdn.idolnetworth.com/imgs/4/48/paco-tous-paco-tous.jpg" alt="Moscow" class="img-fluid card-img-top">
                             <div class="p-4">
                                 <h3>Moscow</h3>
                                 <p class="small text-muted mb-0">Paco Tous</p>
@@ -395,7 +395,7 @@
                         <li class="olStyle"><a href="https://photosdestars.com/ressources/img/stars/Esther_Acebo.jpg" target="_blank">Stockholm: https://photosdestars.com/ressources/img/stars/Esther_Acebo.jpg</a></li>
                         <li class="olStyle"><a href="https://www.personality-database.com/profile_images/11099.png?id=17043" target="_blank">Arturo Román: https://www.personality-database.com/profile_images/11099.png?id=17043</a></li>
                         <li class="olStyle"><a href="https://media-exp1.licdn.com/dms/image/C4E03AQFcsVpUENLY7A/profile-displayphoto-shrink_200_200/0/1516842103898?e=1622678400&v=beta&t=6CUL4PefsHcmJ6SdCxQQqTWq-2rtFpFicGPoyAnsAxI" target="_blank">Marseille: https://media-exp1.licdn.com/dms/image/C4E03AQFcsVpUENLY7A/profile-displayphoto-shrink_200_200/0/1516842103898?e=1622678400&v=beta&t=6CUL4PefsHcmJ6SdCxQQqTWq-2rtFpFicGPoyAnsAxI</a></li>
-                        <li class="olStyle"><a href="https://photo1.allfamous.org/public/people/faces/paco-tous-19640210-allfamous.org.jpg" target="_blank">Moscow: https://photo1.allfamous.org/public/people/faces/paco-tous-19640210-allfamous.org.jpg</a></li>
+                        <li class="olStyle"><a href="https://cdn.idolnetworth.com/imgs/4/48/paco-tous-paco-tous.jpg" target="_blank">Moscow: https://cdn.idolnetworth.com/imgs/4/48/paco-tous-paco-tous.jpg</a></li>
                         <li class="olStyle"><a href="https://www.youtube.com/watch?v=fvCdLmxnkj0" target="_blank">Video: https://www.youtube.com/watch?v=fvCdLmxnkj0</a></li>
                     </ol>
         </div>
