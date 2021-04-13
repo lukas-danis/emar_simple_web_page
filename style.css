@@ -1,8 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
 
 body{
-    background: linear-gradient( rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.85) ), url('images/bgr2.jpg');
-    background-size: cover;
+    background: linear-gradient( rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.85) ), url('images/bgr3.jpg');
+    /* background-size: cover; */
+    background-size: contain;
 }
 
 .wd80{
